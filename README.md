@@ -1,0 +1,2 @@
+# versionizer
+Small utility that adds cache-busting hashes to an HTML file. Designed for use with the [MyHomeworkSpace client](https://github.com/MyHomeworkSpace/client), probably requires changes to work with something else.
